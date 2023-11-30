@@ -4,12 +4,19 @@ EPISCAN is a versatile port scanner written in Python, offering a range of featu
 Features
 
 Efficient multithreaded scanning using concurrent.futures
+
 *Scans all ports (1 to 65535) or specific ports
+
 *Identifies open ports using sockets
+
 *Detects operating systems using nmap
+
 *Determines service versions using nmap
+
 *Eye-catching banner using pyfiglet
+
 *User-friendly interface and clear output
+
 
 Installation
 1/Install Python 3.x (https://www.python.org/downloads/)
