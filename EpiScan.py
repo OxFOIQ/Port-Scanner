@@ -8,7 +8,6 @@ import concurrent.futures
 #Get Time from system
 from datetime import datetime
 import nmap
-#import sys
 
 def scan_specific_ports(target, ports):
     try:
