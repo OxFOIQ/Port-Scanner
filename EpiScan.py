@@ -79,7 +79,7 @@ def Service_Version_Detection(target):
 
 
 def Banner () :
-    ascii_banner = pyfiglet.figlet_format("EPISCAN",font="banner3-D")
+    ascii_banner = pyfiglet.figlet_format("EPISCAN")
     print(ascii_banner)
 
 
