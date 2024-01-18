@@ -96,6 +96,8 @@ def main():
     # other fonts : banner3-D == alphabet ==  5lineoblique == isometric1 == bulbhead
     #Banner Font
     Banner()
+    print("-"*29+ "By MedAmyyne" + "-"*29)
+    print("="*70)
     #ip address
     target = input("Target IP Address ==> ")
     #BannerUI
